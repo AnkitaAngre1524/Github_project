@@ -1,0 +1,31 @@
+ul{
+    display: flex;
+    gap:40px;
+    list-style: none;
+    align-items: center;
+    color: blue;
+
+}
+
+.main{
+    display: flex;
+}
+
+.git{
+    display: flex;
+}
+
+.foot{
+    
+    padding: 5px 4px 0px 0px;
+}
+.footer{
+padding: 10px;
+gap: 40px;
+}
+.aa{
+    margin-top: 9px;
+}
+.ab{
+    height: -450%;
+}

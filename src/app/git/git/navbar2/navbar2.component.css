@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    gap: 30px;
+
+
+}
+li{
+    list-style: none;
+}
+
+.nav{
+    display: flex;
+}
+
+.space{
+    width: 30%;
+}
+.space{
+    display: flex;
+    padding: 25px;
+}
+.List{
+    padding: 25px;;
+}
+
